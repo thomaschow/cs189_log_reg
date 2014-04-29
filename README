@@ -1,0 +1,17 @@
+Students:
+
+Thomas Chow (Login: by, SID: 22215698)
+Mukul Murthy (Login: dq, SID: 21803720) 
+
+Instructions to Run:
+
+	spam.m runs the necessary script to generate outputs for CS 189 problem set 4.
+	
+	In Matlab command line:
+	
+	run spam.m, making sure the data files are in the same directory.
+	
+	Output:
+		View the loss curves for batch gradient and stochastic gradient descent. 	
+	 
+
